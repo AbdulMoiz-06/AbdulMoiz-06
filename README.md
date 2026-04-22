@@ -1,6 +1,15 @@
-## Hi there 👋, I'm Moiz
 
-*Software Developer | AI Engineer | Cybersecurity Analyst
+<div align="center">
+  ## Hi there 👋, I'm Moiz
+</div>
+
+<div align="center">
+  **Software Developer | AI Engineer | Cybersecurity Analyst
+</div>
+
+
+
+**Software Developer | AI Engineer | Cybersecurity Analyst
 
 
 - 🔭 I’m currently working on ...

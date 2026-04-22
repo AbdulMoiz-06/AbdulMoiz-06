@@ -15,7 +15,7 @@
     <li>🐉 I'm currently learning Software Engineering</li>
     <li>🌻 I'm looking to collaborate on AI, SAAS, Web, Product & Service Based Projects</li>
     <li>💬 How to reach me: <a href="mailto:abdulmoiz.maq789@gmail.com">Gmail</a> or <a href="https://www.linkedin.com/in/abdul-moiz-87551b351">LinkedIn</a></li>
-    <li>😒 Ask me about: Don't you dare   </li>
+    <li>😒 Ask me about: Nothing (Don't you even dare)   </li>
     <li>⚡ Fun fact: I'm Batman🦇 </li>
   </ul>
 </div>

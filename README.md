@@ -1,10 +1,7 @@
 
 <div align="center">
-  # Hi there 👋, I'm Moiz
-</div>
-
-<div align="center">
-  ### **Software Developer | AI Engineer | Cybersecurity Analyst**
+  <h1>Hi there 🐟, I'm Moiz</h1>
+  <h3><strong>Software Developer | AI Engineer | Cybersecurity Analyst</strong></h3>
 </div>
 
 

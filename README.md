@@ -21,48 +21,48 @@
 </div>
 <hr>
 
-<div align="center">
+<div>
   <h2><u>💼 Languages and Tools</u></h2>
-  <p>
-    <!-- Programming Languages -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-    <br/><br/> <!-- This creates a line break for better organization -->
-    <!-- Frameworks & Libraries -->
-    <img src="https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX">
-    <img src="https://img.shields.io/badge/Swing-5382A1?style=for-the-badge&logo=openjdk&logoColor=white" alt="Swing">
-    <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Tkinter">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
-    <img src="https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud AI">
-    <br/><br/>
-    <!-- Tools & Environments -->
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  </p>
+
+  <!-- Horizontal line right after heading (optional) -->
+  <hr width="80%">
+
+  <!-- Horizontal row of icons (no text labels) -->
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; margin-top: 15px;">
+    <!-- Languages -->
+    <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python">
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++">
+    <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript">
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js">
+    <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React">
+    <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="Rust">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3">
+    <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="SQL">
+    <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="Ruby">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash">
+    <!-- Tools -->
+    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code">
+    <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio">
+    <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="Unity">
+    <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="Vite">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB">
+    <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase">
+    <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel">
+    <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify">
+    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git">
+    <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker">
+    <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux">
+    <!-- AI/ML specific (TensorFlow, PyTorch, Keras, Scikit-learn, Google Cloud AI) -->
+    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow">
+    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch">
+    <img src="https://cdn.simpleicons.org/keras/D00000" height="40" alt="Keras">
+    <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-learn">
+    <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="Google Cloud">
+  </div>
 </div>

@@ -7,13 +7,16 @@
 </div>
 
 <hr>
-  <p>
-    - ❤️ I'm currently working on … <br>
-    - 👩‍🏫 I'm currently learning … <br>
-    - 💬 I'm looking to collaborate on … <br>
-    - 😄 I'm looking for help with … <br>
-    - 🔗 Ask me about … <br>
-    - 📊 How to reach me: … <br>
-    - 😅 Pronouns: … <br>
-    - 🎉 Fun fact: …
-  </p>
+
+<div>
+  <h2><u>🚀 About Me</u></h2>
+  <ul style="list-style-type: disc;">
+    <li>😼 I'm currently working on AI Development, SAAS Projects, Web Development. </li>
+    <li>🐉 I'm currently learning Software Engineering</li>
+    <li>🌻 I'm looking to collaborate on AI, SAAS, Web, Product & Service Based Projects</li>
+    <li>🔗 How to reach me: Gmail:[abdulmoiz.maq789@gmail.com](mailto:abdulmoiz.maq789@gmail.com) or [Linkedin](https://www.linkedin.com/in/abdul-moiz-87551b351) </li>
+    <li>😒 Ask me about: Nothing💔   </li>
+    <li>⚡ Fun fact: I'm Batman🦇 </li>
+  </ul>
+  </div>
+

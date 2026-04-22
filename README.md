@@ -14,7 +14,7 @@
     <li>😼 I'm currently working on AI Development, SAAS Projects, Web Development. </li>
     <li>🐉 I'm currently learning Software Engineering</li>
     <li>🌻 I'm looking to collaborate on AI, SAAS, Web, Product & Service Based Projects</li>
-    <li>🔗 How to reach me: Gmail:[abdulmoiz.maq789@gmail.com](mailto:abdulmoiz.maq789@gmail.com) or [Linkedin](https://www.linkedin.com/in/abdul-moiz-87551b351) </li>
+    <li>💬 How to reach me: <a href="mailto:abdulmoiz.maq789@gmail.com">Gmail</a> or <a href="https://www.linkedin.com/in/abdul-moiz-87551b351">LinkedIn</a></li>
     <li>😒 Ask me about: Nothing💔   </li>
     <li>⚡ Fun fact: I'm Batman🦇 </li>
   </ul>

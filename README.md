@@ -1,10 +1,10 @@
 
 <div align="center">
-  ## Hi there 👋, I'm Moiz
+  # Hi there 👋, I'm Moiz
 </div>
 
 <div align="center">
-  **Software Developer | AI Engineer | Cybersecurity Analyst
+  ### **Software Developer | AI Engineer | Cybersecurity Analyst**
 </div>
 
 

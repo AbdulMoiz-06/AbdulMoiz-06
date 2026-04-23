@@ -26,7 +26,6 @@
     <!-- Languages -->
     <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python">
     <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++">
-    <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript">
     <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript">
     <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js">
@@ -40,9 +39,6 @@
     <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="Ruby">
     <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="ES6">
-    <!-- Tools (all fixed) -->
-    <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code">
-    <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio">
     <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="Unity">
     <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="Vite">
     <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL">
@@ -56,8 +52,6 @@
     <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes">
     <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux">
     <img src="https://cdn.simpleicons.org/n8n/FF6B6B" height="40" alt="n8n">
-     <!-- Java -->
-    <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java">
     <!-- AI/ML -->
     <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow">
     <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch">

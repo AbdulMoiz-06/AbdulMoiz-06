@@ -56,6 +56,8 @@
     <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes">
     <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux">
     <img src="https://cdn.simpleicons.org/n8n/FF6B6B" height="40" alt="n8n">
+     <!-- Java -->
+    <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java">
     <!-- AI/ML -->
     <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow">
     <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch">

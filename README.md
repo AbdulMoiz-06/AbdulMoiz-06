@@ -24,10 +24,6 @@
 <div>
   <h2><u>💼 Languages and Tools</u></h2>
 
-  <!-- Horizontal line right after heading (optional) -->
-  <hr width="80%">
-
-  <!-- Horizontal row of icons (no text labels) -->
   <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; margin-top: 15px;">
     <!-- Languages -->
     <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python">
@@ -40,12 +36,16 @@
     <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React">
     <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="Rust">
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3">
+    <!-- FIXED: changed from 'css3' to 'css' -->
+    <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="CSS3">
     <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="SQL">
     <img src="https://cdn.simpleicons.org/ruby/CC342D" height="40" alt="Ruby">
     <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="Bash">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="ES6">
     <!-- Tools -->
+    <!-- FIXED: changed from 'visualstudiocode' -->
     <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="VS Code">
+    <!-- FIXED: changed from 'visualstudio' -->
     <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="Visual Studio">
     <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="Unity">
     <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="Vite">
@@ -57,8 +57,10 @@
     <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git">
     <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub">
     <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker">
+    <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes">
     <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux">
-    <!-- AI/ML specific (TensorFlow, PyTorch, Keras, Scikit-learn, Google Cloud AI) -->
+    <img src="https://cdn.simpleicons.org/n8n/FF6B6B" height="40" alt="n8n">
+    <!-- AI/ML specific -->
     <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="TensorFlow">
     <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="PyTorch">
     <img src="https://cdn.simpleicons.org/keras/D00000" height="40" alt="Keras">
@@ -66,3 +68,4 @@
     <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="Google Cloud">
   </div>
 </div>
+

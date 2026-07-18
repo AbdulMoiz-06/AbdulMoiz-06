@@ -59,4 +59,61 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL">
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB">
 </div>
+
+<!-- ========== NEW SECTIONS ADDED BELOW (Your old code stays untouched above) ========== -->
+
+<hr>
+
+<div align="center">
+  <h2><u>📊 GitHub Stats</u></h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulmoiz-06&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmoiz-06&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulmoiz-06&theme=radical&hide_border=true" width="420" alt="GitHub Streak"/>
+</div>
+
+<hr>
+
+<div align="center">
+  <h2><u>🏆 GitHub Trophies</u></h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulmoiz-06&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+<hr>
+
+<div align="center">
+  <h2><u>📁 Featured Projects</u></h2>
+  <table align="center">
+    <tr>
+      <th>📂 Project</th>
+      <th>📝 Description</th>
+      <th>🛠️ Tech</th>
+    </tr>
+    <tr>
+      <td><b>AI-Stock-Predictor</b></td>
+      <td>Machine learning model to predict stock trends</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><b>Knapsack-CLI</b></td>
+      <td>Complete Knapsack game (CLI Version) based on Knapsack Algorithm</td>
+      <td>C++</td>
+    </tr>
+    <tr>
+      <td><b>Crime-Records-DBMS</b></td>
+      <td>Database management system for crime records</td>
+      <td>HTML, SQL</td>
+    </tr>
+    <tr>
+      <td><b>Video-Downloader</b></td>
+      <td>Download videos from various platforms</td>
+      <td>Java</td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>

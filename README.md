@@ -75,13 +75,6 @@
 <hr>
 
 <div align="center">
-  <h2><u>🏆 GitHub Trophies</u></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulmoiz-06&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
-<hr>
-
-<div align="center">
   <h2><u>📁 Featured Projects</u></h2>
   <table align="center">
     <tr>

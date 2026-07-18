@@ -26,11 +26,14 @@
 <hr>
 
  <h2><u>💼 Languages and Tools</u></h2>
- <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; margin-top: 15px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; margin-top: 15px;">
   <!-- Languages -->
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="C">
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++">
-  <img src="https://cdn.simpleicons.org/java/007396" height="40" alt="Java">
+  
+  <!-- FIXED: Java using devicon (guaranteed to display) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java">
+  
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js">
@@ -38,7 +41,7 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML">
   
-  <!-- FIXED: Using 'css' instead of 'css3' (matches your working original) -->
+  <!-- FIXED: CSS (using 'css' slug, matches your original working code) -->
   <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="CSS">
   
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP">
@@ -55,5 +58,5 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL">
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL">
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB">
- </div>
+</div>
 </div>

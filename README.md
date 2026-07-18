@@ -26,7 +26,7 @@
 <hr>
 
  <h2><u>💼 Languages and Tools</u></h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; margin-top: 15px;">
+ <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center; margin-top: 15px;">
   <!-- Languages -->
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="C">
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++">
@@ -37,7 +37,10 @@
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="Next.js">
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML">
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS">
+  
+  <!-- FIXED: Using 'css' instead of 'css3' (matches your working original) -->
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="CSS">
+  
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="PHP">
   
   <!-- Blockchain -->
@@ -52,5 +55,5 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL">
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL">
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB">
-</div>
+ </div>
 </div>

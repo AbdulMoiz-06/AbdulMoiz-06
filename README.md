@@ -67,19 +67,12 @@
 <div align="center">
   <h2><u>📊 GitHub Stats</u></h2>
   
-  <!-- FIXED: Added &v=1 to bypass cache -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulmoiz-06&show_icons=true&theme=radical&hide_border=true&v=1" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulmoiz-06&layout=compact&theme=radical&hide_border=true&v=1" height="180" alt="Top Languages"/>
-  <br>
+  <!-- REMOVED: Stats and Top Languages images -->
+  <!-- Kept only the Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulmoiz-06&theme=radical&hide_border=true" width="420" alt="GitHub Streak"/>
 </div>
 
-<hr>
 
-<div align="center">
-  <h2><u>🏆 GitHub Trophies</u></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulmoiz-06&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
 
 <hr>
 
